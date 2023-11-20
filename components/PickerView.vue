@@ -20,9 +20,6 @@
                     <p v-if="quickButn && confirmed">{{ quickC }} has been confirmed for selection</p>
                     <p v-if="veganButn && confirmed">{{ vegan }} has been confirmed for selection</p>
                     <p v-if="proteinButn && confirmed">{{ protein }} has been confirmed for selection</p>
-
-
-
                 </section>
             </div>
         </section>
