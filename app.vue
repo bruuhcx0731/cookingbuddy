@@ -2,7 +2,6 @@
   <div>
     <header>
       <SiteHeader />
-
     </header>
     <body>
       <template v-if="view === 'LoadingView'">
